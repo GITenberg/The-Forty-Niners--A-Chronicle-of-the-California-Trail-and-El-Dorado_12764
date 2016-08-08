@@ -1,0 +1,31 @@
+_repo: The-Forty-Niners--A-Chronicle-of-the-California-Trail-and-El-Dorado_12764
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Stewart Edward
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '247'
+    url: http://www.gutenberg.org/2009/agents/247
+    wikipedia: http://en.wikipedia.org/wiki/Stewart_Edward_White
+description: ''
+gutenberg_bookshelf:
+- Children's History
+- United States
+gutenberg_issued: '2004-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California National Historic Trail'
+- !lcc 'F850.5'
+- !lcsh 'California -- Gold discoveries'
+- !lcsh 'California -- History'
+- !lcc 'E151'
+- GITenberg
+title: 'The Forty-Niners: A Chronicle of the California Trail and El Dorado'
+url: http://www.gutenberg.org/ebooks/12764
